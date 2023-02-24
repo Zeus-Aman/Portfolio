@@ -1,0 +1,26 @@
+[
+    {
+        "repo": "Sorting-Visualizer",
+        "title": "Sorting Visualizer",
+        "logo": "assets/projects/sorting.png"
+    },
+    {
+        "repo": "Portfolio",
+        "title": "My Portfolio",
+        "logo": "assets/projects/port1.png"
+    },
+    
+    {
+        "repo": "Sudoku-Solver",
+        "title": "Sudoku Solver",
+        "logo": "assets/projects/sudoku.jpg"
+    },
+    {
+        "repo": "File-Compressor-Decompressor",
+        "title": "File Encode And Decode",
+        "logo": "assets/projects/file.png"
+    }
+    
+
+
+]
